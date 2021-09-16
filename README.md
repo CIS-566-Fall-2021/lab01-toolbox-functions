@@ -1,7 +1,8 @@
 # lab01-toolbox-functions
 
-# Submission
+# Final Submission
 Demo [here](https://www.shadertoy.com/view/fsKGRy)! by Meggie Cheng & Linda Ting
+
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
