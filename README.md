@@ -1,3 +1,17 @@
+# Names
+
+Ruth Chung, Serena Gandhi
+
+links:
+Pulsing Flower: 
+https://www.shadertoy.com/view/fdKGzy
+
+Spinning Flower (spins off center):
+https://www.shadertoy.com/view/NdV3zy
+
+Cool accidental flower (needs to run for a while to develop interesting patterns):
+https://www.shadertoy.com/view/NsV3Ry
+
 # lab01-toolbox-functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
