@@ -21,8 +21,11 @@ Do your best to replicate the following simple graphics:
 
 # Submission
 - Create a pull request to this repository
-- In the README, include the names of both your team members
+- In the README, include the names of both your team members (Felicity Yick, Di Lu)
 - In the README, create a link to your shader toy solutions for these three prompts
+- 1) https://www.shadertoy.com/view/NdKGRy
+- 2) https://www.shadertoy.com/view/7sKGRG
+- 3) We made lots of whacky flowers on the way, but didn't manage to save any :(
 - Make sure all three of your shadertoys are set to UNLISTED or PUBLIC (so we can see them!)
 
 
