@@ -1,7 +1,7 @@
 # lab01-toolbox-functions
 
 # Submission
-Demo ![here](https://www.shadertoy.com/view/fsKGRy)! by Meggie Cheng & Linda Ting
+Demo [here](https://www.shadertoy.com/view/fsKGRy)! by Meggie Cheng & Linda Ting
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
