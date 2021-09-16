@@ -27,6 +27,11 @@ Do your best to replicate the following simple graphics:
 
 
 
+Team: Yanfei(Effie) Li, Amelia Peng
 
+Link:
+https://www.shadertoy.com/view/NsVGRy (for pulsing and rotating flower)
+https://www.shadertoy.com/view/NsK3zy (new flower)
 
- 
+Note: in the main function, there are two lines that set fragColor. One is for pulsing flower, and one is for rotating flower. Right now pulsing flower is commented out, but you could change which line to run.
+
