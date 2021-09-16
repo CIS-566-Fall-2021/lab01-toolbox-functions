@@ -1,3 +1,21 @@
+# Turn in
+Partners
+---------
+Emma Holthouser, Ashley Alexander-Lee
+
+
+Part1
+-----
+https://www.shadertoy.com/view/ssV3zG
+
+Part 2
+--------
+https://www.shadertoy.com/view/7dV3zG
+
+Part 3
+-------
+https://www.shadertoy.com/view/7dKGRy
+
 # lab01-toolbox-functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
