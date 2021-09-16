@@ -1,3 +1,10 @@
+# Sharon Dong and David Li
+
+1. https://www.shadertoy.com/view/fdV3zy
+2. https://www.shadertoy.com/view/ssK3RG
+3. https://www.shadertoy.com/view/fsVGzy
+4. Wacky one! https://www.shadertoy.com/view/fdK3zy
+
 # lab01-toolbox-functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
