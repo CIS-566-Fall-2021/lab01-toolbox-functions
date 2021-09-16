@@ -25,6 +25,9 @@ Do your best to replicate the following simple graphics:
 - In the README, create a link to your shader toy solutions for these three prompts
 - Make sure all three of your shadertoys are set to UNLISTED or PUBLIC (so we can see them!)
 
+# Submission for Nathaniel Korzekwa
+- Collaborated with An Duong
+- Solution for #1 -- I wasted too much time trying to get it perfect :'(  https://www.shadertoy.com/view/7sK3RG 
 
 
 
