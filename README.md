@@ -2,6 +2,17 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+# Submission
+By An Duong
+
+Collaborated with Nathaniel Korzekwa
+
+Flower 1: https://www.shadertoy.com/view/7sV3RG
+
+Flower 2: https://www.shadertoy.com/view/sdV3zG
+
+Flower 3: https://www.shadertoy.com/view/7sV3zG
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Create a new shadertoy and copy the code from the [Humble Little Circle demo](https://www.shadertoy.com/view/7dy3RG).
