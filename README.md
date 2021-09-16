@@ -1,4 +1,4 @@
-# Eddie's Submission Attempts
+# Eddie Huang's Submission Attempts
 
 1. https://www.shadertoy.com/view/ssVGRG
 2. https://www.shadertoy.com/view/7sVGRG#
