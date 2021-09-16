@@ -1,9 +1,8 @@
 # Results
-Team member's: Lanqing Bao, Haowei Li, Yilei Li
-Pulsing Flower: https://www.shadertoy.com/view/sdVGzG
-Spinning Flower: https://www.shadertoy.com/view/ssV3RG
-New Flower: https://www.shadertoy.com/view/7sK3zG
-
+Team member's: Lanqing Bao, Haowei Li, Yilei Li \
+Pulsing Flower: https://www.shadertoy.com/view/sdVGzG \
+Spinning Flower: https://www.shadertoy.com/view/ssV3RG \
+New Flower: https://www.shadertoy.com/view/7sK3zG 
 # lab01-toolbox-functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
